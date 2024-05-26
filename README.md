@@ -16,5 +16,10 @@ The implementation timeline is as follows: Week 1-2 for requirements gathering a
 
 In conclusion, the Preview Assistant will significantly enhance the GPT creation process by providing automated performance analysis, instruction feedback, and usability suggestions, thereby improving the overall user experience and quality of custom GPTs.
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
